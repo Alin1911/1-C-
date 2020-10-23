@@ -1,4 +1,4 @@
-//crieţi o funcţie care extrage un subşir de lungime dată dintr-o poziţie dată a unui şir.
+//scrieţi o funcţie care extrage un subşir de lungime dată dintr-o poziţie dată a unui şir.
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
